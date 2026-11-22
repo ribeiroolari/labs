@@ -1,3 +1,11 @@
-Meu primeiro projeto no GIT
+Do CLI ao código - YT Gustavo Kalau
 
-alterado hoje 29/10/2026
++ Testando ContainerLab
++ Docker
++ WSL UBUNTU no Windows
++ Automação Redes
++ GitHub
+
+Arquivos do lab de testes
+
+
