@@ -1,0 +1,30 @@
+base:
+  device_type: arista_eos
+  username: admin
+  password: admin
+#use_keys: True
+#key_file: /home/host/labs/lab01/.ssh/lab01_key
+
+#dispositivos:  
+#- host: 172.20.10.11
+#  hostname: sw1
+#- host: 172.20.10.12
+#  hostname: sw2
+#- host: 172.20.10.13
+#  hostname: sw3  
+#- host: 172.20.10.14
+#  hostname: sw4
+#- host: 172.20.10.15
+#  hostname: sw5
+
+dispositivo:
+- host: sw1
+  hostname: sw1
+- host: sw2
+  hostname: sw2
+- host: sw3
+  hostname: sw3
+- host: sw4
+  hostname: sw4
+
+

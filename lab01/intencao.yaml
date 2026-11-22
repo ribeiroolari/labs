@@ -1,0 +1,8 @@
+vlan:
+  id: "20"
+  nome: LAB
+  access:
+    - Ethernet2
+  trunk:
+    - Ethernet1
+    - Ethernet3
